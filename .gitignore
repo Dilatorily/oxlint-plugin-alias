@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!.husky
+!.vscode
+lib
+node_modules
