@@ -1,6 +1,7 @@
 .*
 !.gitignore
 !.husky
+!.nvmrc
 !.vscode
 lib
 node_modules
