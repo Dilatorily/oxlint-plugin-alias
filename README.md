@@ -22,7 +22,7 @@ Add the plugin to your Oxlint configuration:
 {
   "jsPlugins": [{ "name": "@dilatorily/oxlint-plugin-alias", "specifier": "alias" }],
   "rules": {
-    "alias/prefer-alias": ['error', {
+    "alias/prefer-alias": ["error", {
       "alias": {
         "@": "./src",
         "@utils": "./src/utils"
